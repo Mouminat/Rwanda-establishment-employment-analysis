@@ -32,9 +32,7 @@ https://microdatabk.statistics.gov.rw/catalog/112
 ## Planned Innovation
 An interactive analytical dashboard connected to the Oracle database.
 
-## Phase 0 Presentation
-
-[View Phase 0 PowerPoint](Rwanda_Establishment_Analysis_Phase0_Presentation.pptx)
+[View Phase 0 PowerPoint](Project%20pl_Sql/docs/Phase0_Presentation.pptx)
 
 
 ## Technologies
